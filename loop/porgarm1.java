@@ -4,6 +4,12 @@ class poragrma{
         // {
         //     System.out.println("Hello World");
         // }
+        // int i=5;
+        // while(i>=1)
+        // {
+        //     System.out.println(i);
+        //     i--;
+        // }
         int i=1;
         while(i<=5)
         {
