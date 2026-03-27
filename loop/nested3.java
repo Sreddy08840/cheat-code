@@ -1,7 +1,7 @@
 public class nested3 {
     public static void main(String[] args){
         int i=0;
-        while(i<3){ 
+        do{ 
             int j=0;
             while(j<5){
                 System.out.println("i"+i+"+j"+j+" ");
@@ -9,6 +9,6 @@ public class nested3 {
             }
             System.out.println();
             i++;
-        }
+        }while(i<3);
     }
 }
