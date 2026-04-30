@@ -8,8 +8,7 @@ public class example1 {
 		
 		int n=scan.nextInt();
 		int[] ar =new int[n];
-	
-		for(int i=0;i<ar.length;i++) {
+	   for(int i=0;i<ar.length;i++) {
 		ar[i]=scan.nextInt();	
 		}
 		HashSet<Integer> lh=new HashSet<Integer>();
