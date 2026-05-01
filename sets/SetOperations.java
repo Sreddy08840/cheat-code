@@ -6,7 +6,6 @@ public class SetOperations {
         set.add("apple");
         set.add("banana");
         set.add("apple"); // duplicate ignored
-        
         System.out.println("Set: " + set);
         System.out.println("Contains banana: " + set.contains("banana"));
         set.remove("apple");
